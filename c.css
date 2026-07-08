@@ -4,10 +4,10 @@
 }
 
 .s{
-    background-image: url(WhatsApp\ Image\ 2026-07-08\ at\ 1.46.19\ PM.jpeg);
+    background-image: url(WhatsApp\ Image\ 2026-07-08\ at\ 4.00.40\ PM.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 200px;
+    height: 400px;
 }
 
 .k{
@@ -61,5 +61,5 @@ button{
     border-radius: 10px;
     border: 2px solid blue;
 
-    margin-top: 120px;
+    margin-top: 230px;
 }
