@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.s{
+    background-image: url(WhatsApp\ Image\ 2026-07-08\ at\ 1.46.19\ PM.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.k{
+    background-image: url(خلفية\ الموقع.jpg.jpeg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 40px;
+}
+
+h2{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    padding-top: 2px;
+}
+
+body {
+  font-family: "Cairo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
