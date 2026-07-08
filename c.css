@@ -4,10 +4,15 @@
 }
 
 .s{
-    background-image: url(WhatsApp\ Image\ 2026-07-08\ at\ 4.00.40\ PM.jpeg);
+    background-image: url(WhatsApp\ Image\ 2026-07-08\ at\ 1.46.19\ PM.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 400px;
+}
+
+nav{
+    padding: 0 10px;
+    
 }
 
 .k{
@@ -17,6 +22,12 @@
     background-repeat: no-repeat;
     background-position: center;
     padding-top: 40px;
+}
+
+.aa{
+    justify-content: center;
+    display: flex;
+    gap: 15px;
 }
 
 h2{
@@ -43,6 +54,7 @@ transition: all 0.6s ease-in-out;
 .e:hover{
     color: red;
     transform: scale(1.05);
+    
 }
 
 a{
@@ -57,7 +69,7 @@ button{
   font-style: normal;
   font-variation-settings:
     "slnt" 0;
-
+    
     border-radius: 10px;
     border: 2px solid blue;
 
