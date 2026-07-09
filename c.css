@@ -11,12 +11,36 @@
 }
 
 nav{
-    padding: 0 10px;
+    padding: 10px 15px;
+    
+    background: #0F5C63;
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between;
+    box-shadow: 0 4px 12px rgba(0,0,0,.15);
     
 }
 
+.ggh{
+transition: all 0.6s ease-in-out;
+color: white;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    
+}
+
+.ggh:hover{
+    color: red;
+    transform: scale(1.05);
+}
+
 .k{
-    background-image: url(خلفية\ الموقع.jpg.jpeg);
+    background-image: url(ChatGPT\ Image\ 9\ يوليو\ 2026،\ 04_02_59\ م.png);
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -27,6 +51,7 @@ nav{
 .aa{
     justify-content: center;
     display: flex;
+    
     gap: 15px;
 }
 
@@ -69,9 +94,9 @@ button{
   font-style: normal;
   font-variation-settings:
     "slnt" 0;
-    
+    font-size: 11px;
     border-radius: 10px;
-    border: 2px solid blue;
+    border: 2px solid #0F5C63;
 
     margin-top: 220px;
 }
