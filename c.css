@@ -4,10 +4,10 @@
 }
 
 .s{
-    background-image: url(WhatsApp\ Image\ 2026-07-08\ at\ 1.46.19\ PM.jpeg);
+    background-image: url(WhatsApp\ Image\ 2026-07-09\ at\ 5.29.59\ PM.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 400px;
+    height: 550px;
 }
 
 nav{
@@ -40,7 +40,7 @@ ul{
 }
 
 .k{
-    background-image: url(ChatGPT\ Image\ 9\ يوليو\ 2026،\ 04_02_59\ م.png);
+    background-image: url(WhatsApp\ Image\ 2026-07-09\ at\ 5.32.21\ PM.jpeg);
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -99,4 +99,17 @@ button{
     border: 2px solid #0F5C63;
 
     margin-top: 220px;
+}
+
+.ff {
+    margin-top: 5px;
+    justify-content: center;
+
+}
+
+.l{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 25px;
+    margin-top: 135px;
 }
