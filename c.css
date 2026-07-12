@@ -113,3 +113,8 @@ button{
     gap: 25px;
     margin-top: 135px;
 }
+
+.popo{
+    background:linear-gradient(to left, red, green);
+    height: 5px;
+}
