@@ -107,6 +107,15 @@ button{
 
 }
 
+.ffw{
+    transition: transform 0.6s ease-in-out;
+}
+
+.ffw:hover{
+    
+    transform: scale(1.05);
+}
+
 .l{
     display: grid;
     grid-template-columns: repeat(3,1fr);
