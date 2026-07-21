@@ -129,8 +129,9 @@ button{
 }
 
 .eer {
-    display: flex;
+    display: grid;
     gap: 20px;
+    grid-template-columns: repeat(3,3fr);
     margin-top: 70px;
      align-items: flex-start;
      justify-content: center;
